@@ -1,0 +1,440 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="zh-CN" target-language="en-US" original="VIDEOPLAYER/STRINGS/ZH-CN/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6900.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="VIDEOPLAYER/STRINGS/ZH-CN/RESOURCES.RESW" datatype="resx">
+        <trans-unit id="wait_content" translate="yes" xml:space="preserve">
+          <source>请等待加载完成</source>
+          <target state="translated">Please wait for the load to complete. </target>
+        </trans-unit>
+        <trans-unit id="bin_item.Text" translate="yes" xml:space="preserve">
+          <source>放入回收站</source>
+          <target state="translated">Put in Recycle Bin </target>
+        </trans-unit>
+        <trans-unit id="deleteLocal_menuItem.Text" translate="yes" xml:space="preserve">
+          <source>移除</source>
+          <target state="translated">Remove</target>
+        </trans-unit>
+        <trans-unit id="delete_menuItem.Text" translate="yes" xml:space="preserve">
+          <source>从列表删除</source>
+          <target state="translated">Remove from list </target>
+        </trans-unit>
+        <trans-unit id="directly_item.Text" translate="yes" xml:space="preserve">
+          <source>永久删除</source>
+          <target state="translated">Delete permanently</target>
+        </trans-unit>
+        <trans-unit id="pause_menuItem.Text" translate="yes" xml:space="preserve">
+          <source>暂停</source>
+          <target state="translated">Pause</target>
+        </trans-unit>
+        <trans-unit id="isHaveVideo_content" translate="yes" xml:space="preserve">
+          <source>未读取到视频文件!!!</source>
+          <target state="translated">Get videos failed! ! !</target>
+        </trans-unit>
+        <trans-unit id="playError_str" translate="yes" xml:space="preserve">
+          <source>打开文件失败(被删除、移动、或格式不支持)，将自动从列表中移除该项。</source>
+          <target state="translated">Failed to open the file (deleted, moved, or format not supported) ,And the item will be removed automatically from the list.</target>
+        </trans-unit>
+        <trans-unit id="searchResult_str" translate="yes" xml:space="preserve">
+          <source>无结果</source>
+          <target state="translated">No result</target>
+        </trans-unit>
+        <trans-unit id="Cancel.Content" translate="yes" xml:space="preserve">
+          <source>取消</source>
+          <target state="translated">Cancel</target>
+        </trans-unit>
+        <trans-unit id="InvalidProfile_str" translate="yes" xml:space="preserve">
+          <source>配置文件无效！</source>
+          <target state="translated">Invalid profile.</target>
+        </trans-unit>
+        <trans-unit id="unknowError_str" translate="yes" xml:space="preserve">
+          <source>未知错误！</source>
+          <target state="translated">Unknown failure.</target>
+        </trans-unit>
+        <trans-unit id="cancel_menuItem.Text" translate="yes" xml:space="preserve">
+          <source>取消</source>
+          <target state="translated">Cancel</target>
+        </trans-unit>
+        <trans-unit id="clearAll_item.Text" translate="yes" xml:space="preserve">
+          <source>清除所有进度</source>
+          <target state="translated">Clear all progress</target>
+        </trans-unit>
+        <trans-unit id="clear_item.Text" translate="yes" xml:space="preserve">
+          <source>清除进度</source>
+          <target state="translated">Clear progress</target>
+        </trans-unit>
+        <trans-unit id="multiple_item.Text" translate="yes" xml:space="preserve">
+          <source>多选</source>
+          <target state="translated">Multiple selection</target>
+        </trans-unit>
+        <trans-unit id="clearProgress_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>清除播放进度</source>
+          <target state="translated">Clear play progress</target>
+        </trans-unit>
+        <trans-unit id="AppDisplayName" translate="yes" xml:space="preserve">
+          <source>M-视频播放器</source>
+          <target state="translated">M-VideoPlayer</target>
+        </trans-unit>
+        <trans-unit id="AppShortName" translate="yes" xml:space="preserve">
+          <source>M-视频播放器</source>
+          <target state="translated">M-VideoPlayer</target>
+        </trans-unit>
+        <trans-unit id="item_1_0.Text" translate="yes" xml:space="preserve">
+          <source>1.0x(正常)</source>
+          <target state="translated">1.0x(Normal)</target>
+        </trans-unit>
+        <trans-unit id="playModeStr_default" translate="yes" xml:space="preserve">
+          <source>Null</source>
+          <target state="translated">Null</target>
+        </trans-unit>
+        <trans-unit id="playModeStr_list" translate="yes" xml:space="preserve">
+          <source>顺序播放</source>
+          <target state="translated">List</target>
+        </trans-unit>
+        <trans-unit id="playModeStr_listRecycle" translate="yes" xml:space="preserve">
+          <source>循环播放</source>
+          <target state="translated">Loop</target>
+        </trans-unit>
+        <trans-unit id="playModeStr_recycle" translate="yes" xml:space="preserve">
+          <source>单项循环</source>
+          <target state="translated">Replay</target>
+        </trans-unit>
+        <trans-unit id="playRate_str" translate="yes" xml:space="preserve">
+          <source>倍速</source>
+          <target state="translated">PlayRate</target>
+        </trans-unit>
+        <trans-unit id="audioLanguage_str" translate="yes" xml:space="preserve">
+          <source>音轨</source>
+          <target state="translated">Audio Tracks</target>
+        </trans-unit>
+        <trans-unit id="fillMode_str" translate="yes" xml:space="preserve">
+          <source>视频填充</source>
+          <target state="translated">Resize Video</target>
+        </trans-unit>
+        <trans-unit id="addFolderLibrary_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>下次启动，将自动加载下列文件夹中的所有视频</source>
+          <target state="translated">Next time you start, all videos in the following folders will be loaded automatically</target>
+        </trans-unit>
+        <trans-unit id="CloseMessageDialog_str" translate="yes" xml:space="preserve">
+          <source>关闭</source>
+          <target state="translated">Close</target>
+        </trans-unit>
+        <trans-unit id="allSelect_checkBox.Content" translate="yes" xml:space="preserve">
+          <source>全选</source>
+          <target state="translated">Select All</target>
+        </trans-unit>
+        <trans-unit id="mediaTrack_str" translate="yes" xml:space="preserve">
+          <source>频轨</source>
+          <target state="translated">Video Tracks</target>
+        </trans-unit>
+        <trans-unit id="metadata_str" translate="yes" xml:space="preserve">
+          <source>字幕</source>
+          <target state="translated">Subtitle</target>
+        </trans-unit>
+        <trans-unit id="metadata_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>内置字幕</source>
+          <target state="translated">Built-in subtitles</target>
+        </trans-unit>
+        <trans-unit id="screenShot_item.Text" translate="yes" xml:space="preserve">
+          <source>截取屏幕</source>
+          <target state="translated">Intercept screen</target>
+        </trans-unit>
+        <trans-unit id="clearData_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>( 清空本地缓存后，历史观看记录会同步清除 )</source>
+          <target state="translated">(After clearing the local cache, historical watch history will be cleared synchronously)</target>
+        </trans-unit>
+        <trans-unit id="closeDialog_Button.Content" translate="yes" xml:space="preserve">
+          <source>关  闭</source>
+          <target state="translated">Close</target>
+        </trans-unit>
+        <trans-unit id="close_button.Content" translate="yes" xml:space="preserve">
+          <source>关  闭</source>
+          <target state="translated">Close</target>
+        </trans-unit>
+        <trans-unit id="saveSucceed_str" translate="yes" xml:space="preserve">
+          <source>保存截图成功:  </source>
+          <target state="translated">Save succeed:  </target>
+        </trans-unit>
+        <trans-unit id="Fill_item.Text" translate="yes" xml:space="preserve">
+          <source>填充窗口(拉伸)</source>
+          <target state="translated">Fill</target>
+        </trans-unit>
+        <trans-unit id="None_item.Text" translate="yes" xml:space="preserve">
+          <source>原始尺寸</source>
+          <target state="translated">None</target>
+        </trans-unit>
+        <trans-unit id="UniformToFill_item.Text" translate="yes" xml:space="preserve">
+          <source>全屏(保持纵横比)</source>
+          <target state="translated">UniformToFill</target>
+        </trans-unit>
+        <trans-unit id="Uniform_item.Text" translate="yes" xml:space="preserve">
+          <source>宽屏(保持纵横比)</source>
+          <target state="translated">Uniform</target>
+        </trans-unit>
+        <trans-unit id="access_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>打开本地设置获取视频权限</source>
+          <target state="translated">Open local settings to get video permissions</target>
+        </trans-unit>
+        <trans-unit id="closeCutDialog_button.Content" translate="yes" xml:space="preserve">
+          <source>关  闭</source>
+          <target state="translated">Close</target>
+        </trans-unit>
+        <trans-unit id="editPicture_button.Content" translate="yes" xml:space="preserve">
+          <source>编辑图片</source>
+          <target state="translated">Edit picture</target>
+        </trans-unit>
+        <trans-unit id="openCutAdress_button.Content" translate="yes" xml:space="preserve">
+          <source>打开位置</source>
+          <target state="translated">Open Folder</target>
+        </trans-unit>
+        <trans-unit id="replay_menuItem.Text" translate="yes" xml:space="preserve">
+          <source>重播</source>
+          <target state="translated">Replay</target>
+        </trans-unit>
+        <trans-unit id="noPicturesFolder_str" translate="yes" xml:space="preserve">
+          <source>该文件夹已移动或重命名！</source>
+          <target state="translated">The folder has been moved or renamed!</target>
+        </trans-unit>
+        <trans-unit id="noPicture_str" translate="yes" xml:space="preserve">
+          <source>该文件已移动或重命名！</source>
+          <target state="translated">The file has been moved or renamed!</target>
+        </trans-unit>
+        <trans-unit id="videoDecode_toggleSwitch.Header" translate="yes" xml:space="preserve">
+          <source>软解码</source>
+          <target state="translated">Soft Decoding</target>
+        </trans-unit>
+        <trans-unit id="SystemSound_toggleSwitch.Header" translate="yes" xml:space="preserve">
+          <source>应用音效</source>
+          <target state="translated">System Sound</target>
+        </trans-unit>
+        <trans-unit id="FFmpeg_toggleSwitch.Header" translate="yes" xml:space="preserve">
+          <source>硬解码</source>
+          <target state="translated">Hard Decoding</target>
+        </trans-unit>
+        <trans-unit id="Decode_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>解码设置</source>
+          <target state="translated">Decoding Settings</target>
+        </trans-unit>
+        <trans-unit id="clearLocalData_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>本地播放进度缓存</source>
+          <target state="translated">Local play progress data</target>
+        </trans-unit>
+        <trans-unit id="cancelMultiple_str" translate="yes" xml:space="preserve">
+          <source>取消多选</source>
+          <target state="translated">Cancel</target>
+        </trans-unit>
+        <trans-unit id="multiple_str" translate="yes" xml:space="preserve">
+          <source>多选</source>
+          <target state="translated">Multiple</target>
+        </trans-unit>
+        <trans-unit id="PlayerName_str.Text" translate="yes" xml:space="preserve">
+          <source>视频播放器(UWP)</source>
+          <target state="translated">VideoPlayerUWP</target>
+        </trans-unit>
+        <trans-unit id="addTimedText_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>添加字幕</source>
+          <target state="translated">Add Subtitle</target>
+        </trans-unit>
+        <trans-unit id="contentGridViewHeader_str" translate="yes" xml:space="preserve">
+          <source>所有视频</source>
+          <target state="translated">All Videos</target>
+        </trans-unit>
+        <trans-unit id="videosCount_str" translate="yes" xml:space="preserve">
+          <source>个视频</source>
+          <target state="translated">videos</target>
+        </trans-unit>
+        <trans-unit id="removeFolders_item.Text" translate="yes" xml:space="preserve">
+          <source>移除</source>
+          <target state="translated">Remove</target>
+        </trans-unit>
+        <trans-unit id="back_str" translate="yes" xml:space="preserve">
+          <source>返回</source>
+          <target state="translated">Back</target>
+        </trans-unit>
+        <trans-unit id="volume_str" translate="yes" xml:space="preserve">
+          <source>音量</source>
+          <target state="translated">Volume</target>
+        </trans-unit>
+        <trans-unit id="openSettings_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>打开设置</source>
+          <target state="translated">Open Settings</target>
+        </trans-unit>
+        <trans-unit id="run_1.Text" translate="yes" xml:space="preserve">
+          <source>a. 对于原本不支持的视频格式，强制解码成功后，会导致无法检索视频内置字幕(第三方API功能限制)。</source>
+          <target state="translated">a. For video formats that are not supported, forced decoding will result in the inability to retrieve video built-in subtitles (third-party API function restrictions).</target>
+        </trans-unit>
+        <trans-unit id="run_2.Text" translate="yes" xml:space="preserve">
+          <source>b. 在预览版WINDOWS系统下，可能会出现闪退。</source>
+          <target state="translated">b. Under the preview version of WINDOWS, a flashback may occur.</target>
+        </trans-unit>
+        <trans-unit id="run_3.Text" translate="yes" xml:space="preserve">
+          <source>c. 使用过程中，出现问题或者有建议，欢迎反馈给开发者。</source>
+          <target state="translated">c. During the use, there are problems or suggestions, welcome feedback to the developer. Thanks !</target>
+        </trans-unit>
+        <trans-unit id="closeSettings_button.Content" translate="yes" xml:space="preserve">
+          <source>关闭</source>
+          <target state="translated">Close</target>
+        </trans-unit>
+        <trans-unit id="fastForward_str" translate="yes" xml:space="preserve">
+          <source>快进</source>
+          <target state="translated">Fast Forward</target>
+        </trans-unit>
+        <trans-unit id="rewind_str" translate="yes" xml:space="preserve">
+          <source>倒退</source>
+          <target state="translated">Rewind</target>
+        </trans-unit>
+        <trans-unit id="defaultTracks_str" translate="yes" xml:space="preserve">
+          <source>默认</source>
+          <target state="translated">Default</target>
+        </trans-unit>
+        <trans-unit id="frombin_item.Text" translate="yes" xml:space="preserve">
+          <source>删除到回收站</source>
+          <target state="translated">Put in Recycle Bin </target>
+        </trans-unit>
+        <trans-unit id="fromlist_item.Text" translate="yes" xml:space="preserve">
+          <source>从列表移除</source>
+          <target state="translated">Remove from list </target>
+        </trans-unit>
+        <trans-unit id="remove_item.Text" translate="yes" xml:space="preserve">
+          <source>永久删除</source>
+          <target state="translated">Delete permanently</target>
+        </trans-unit>
+        <trans-unit id="multipleDelete_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>移除</source>
+          <target state="translated">Remove</target>
+        </trans-unit>
+        <trans-unit id="list_item.Text" translate="yes" xml:space="preserve">
+          <source>顺序播放</source>
+          <target state="translated">List</target>
+        </trans-unit>
+        <trans-unit id="null_item.Text" translate="yes" xml:space="preserve">
+          <source>Null</source>
+          <target state="translated">Null</target>
+        </trans-unit>
+        <trans-unit id="playMode_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>播放模式</source>
+          <target state="translated">Play Mode</target>
+        </trans-unit>
+        <trans-unit id="recycle_item.Text" translate="yes" xml:space="preserve">
+          <source>循环播放</source>
+          <target state="translated">Loop</target>
+        </trans-unit>
+        <trans-unit id="replay_item.Text" translate="yes" xml:space="preserve">
+          <source>单项循环</source>
+          <target state="translated">Replay</target>
+        </trans-unit>
+        <trans-unit id="audioTracks_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>音轨 :</source>
+          <target state="translated">Audio Tracks :</target>
+        </trans-unit>
+        <trans-unit id="timedTracks_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>字幕 :</source>
+          <target state="translated">Subtitle :</target>
+        </trans-unit>
+        <trans-unit id="videoTracks_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>频轨 :</source>
+          <target state="translated">Video Tracks :</target>
+        </trans-unit>
+        <trans-unit id="pin_str" translate="yes" xml:space="preserve">
+          <source>窗口置顶</source>
+          <target state="translated">Pin</target>
+        </trans-unit>
+        <trans-unit id="unPin_str" translate="yes" xml:space="preserve">
+          <source>取消置顶</source>
+          <target state="translated">Unpin</target>
+        </trans-unit>
+        <trans-unit id="about_button.Label" translate="yes" xml:space="preserve">
+          <source>提示</source>
+          <target state="translated">Help</target>
+        </trans-unit>
+        <trans-unit id="comment_button.Label" translate="yes" xml:space="preserve">
+          <source>评分</source>
+          <target state="translated">Comment</target>
+        </trans-unit>
+        <trans-unit id="email_button.Label" translate="yes" xml:space="preserve">
+          <source>邮件</source>
+          <target state="translated">E-Mail</target>
+        </trans-unit>
+        <trans-unit id="search_button.Label" translate="yes" xml:space="preserve">
+          <source>搜索</source>
+          <target state="translated">Search</target>
+        </trans-unit>
+        <trans-unit id="closeButton_str" translate="yes" xml:space="preserve">
+          <source>否</source>
+          <target state="translated">No</target>
+        </trans-unit>
+        <trans-unit id="playError_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>播放错误，是否尝试强制解码 !</source>
+          <target state="translated">Play error, try to force decoding!</target>
+        </trans-unit>
+        <trans-unit id="primaryButton_str" translate="yes" xml:space="preserve">
+          <source>是</source>
+          <target state="translated">Yes</target>
+        </trans-unit>
+        <trans-unit id="more_str" translate="yes" xml:space="preserve">
+          <source>更多</source>
+          <target state="translated">More</target>
+        </trans-unit>
+        <trans-unit id="allTime_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>时长</source>
+          <target state="translated">Total</target>
+        </trans-unit>
+        <trans-unit id="forcedDecoding_str" translate="yes" xml:space="preserve">
+          <source>强制解码成功 !</source>
+          <target state="translated">Forced decoding succeeded !</target>
+        </trans-unit>
+        <trans-unit id="addFoldersButton_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>添加</source>
+          <target state="translated">Add</target>
+        </trans-unit>
+        <trans-unit id="multiple_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>多选</source>
+          <target state="translated">Multiple</target>
+        </trans-unit>
+        <trans-unit id="refreshVideos_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>刷新</source>
+          <target state="translated">Refresh</target>
+        </trans-unit>
+        <trans-unit id="search_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>查询</source>
+          <target state="translated">Search</target>
+        </trans-unit>
+        <trans-unit id="settingsButton_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>设置</source>
+          <target state="translated">Settings</target>
+        </trans-unit>
+        <trans-unit id="themeButton_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>主题</source>
+          <target state="translated">Theme</target>
+        </trans-unit>
+        <trans-unit id="comment_textBlock.Text" translate="yes" xml:space="preserve">
+          <source>感谢您使用本应用，有什么建议或反馈，欢迎给于评价！非常感谢！</source>
+          <target state="translated">Thank you for using this app, any suggestions or feedback, welcome to give a review! thank you very much!</target>
+        </trans-unit>
+        <trans-unit id="isComment_checkBox.Content" translate="yes" xml:space="preserve">
+          <source>不再弹出</source>
+          <target state="translated">No longer pop up</target>
+        </trans-unit>
+        <trans-unit id="commentCancel_str" translate="yes" xml:space="preserve">
+          <source>取消</source>
+          <target state="translated">Cancel</target>
+        </trans-unit>
+        <trans-unit id="commentPrimary_str" translate="yes" xml:space="preserve">
+          <source>跳转到商店</source>
+          <target state="translated">Jump to the store</target>
+        </trans-unit>
+        <trans-unit id="exitFullScreen__textBlock.Text" translate="yes" xml:space="preserve">
+          <source>当前为全屏模式，是否退出全屏模式!</source>
+          <target state="translated">Currently in full screen mode, whether to exit full screen mode!</target>
+        </trans-unit>
+        <trans-unit id="screenShot_str" translate="yes" xml:space="preserve">
+          <source>截图</source>
+          <target state="translated">Screenshot</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

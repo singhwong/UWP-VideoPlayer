@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="wait_content" xml:space="preserve">
+    <value>Please wait for the load to complete. </value>
+  </data>
+  <data name="bin_item.Text" xml:space="preserve">
+    <value>Put in Recycle Bin </value>
+  </data>
+  <data name="deleteLocal_menuItem.Text" xml:space="preserve">
+    <value>Remove</value>
+  </data>
+  <data name="delete_menuItem.Text" xml:space="preserve">
+    <value>Remove from list </value>
+  </data>
+  <data name="directly_item.Text" xml:space="preserve">
+    <value>Delete permanently</value>
+  </data>
+  <data name="pause_menuItem.Text" xml:space="preserve">
+    <value>Pause</value>
+  </data>
+  <data name="isHaveVideo_content" xml:space="preserve">
+    <value>Get videos failed! ! !</value>
+  </data>
+  <data name="playError_str" xml:space="preserve">
+    <value>Failed to open the file (deleted, moved, or format not supported) ,And the item will be removed automatically from the list.</value>
+  </data>
+  <data name="searchResult_str" xml:space="preserve">
+    <value>No result</value>
+  </data>
+  <data name="Cancel.Content" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="InvalidProfile_str" xml:space="preserve">
+    <value>Invalid profile.</value>
+  </data>
+  <data name="unknowError_str" xml:space="preserve">
+    <value>Unknown failure.</value>
+  </data>
+  <data name="cancel_menuItem.Text" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="clearAll_item.Text" xml:space="preserve">
+    <value>Clear all progress</value>
+  </data>
+  <data name="clear_item.Text" xml:space="preserve">
+    <value>Clear progress</value>
+  </data>
+  <data name="multiple_item.Text" xml:space="preserve">
+    <value>Multiple selection</value>
+  </data>
+  <data name="clearProgress_textBlock.Text" xml:space="preserve">
+    <value>Clear play progress</value>
+  </data>
+  <data name="AppDisplayName" xml:space="preserve">
+    <value>M-VideoPlayer</value>
+  </data>
+  <data name="AppShortName" xml:space="preserve">
+    <value>M-VideoPlayer</value>
+  </data>
+  <data name="item_1_0.Text" xml:space="preserve">
+    <value>1.0x(Normal)</value>
+  </data>
+  <data name="playModeStr_default" xml:space="preserve">
+    <value>Null</value>
+  </data>
+  <data name="playModeStr_list" xml:space="preserve">
+    <value>List</value>
+  </data>
+  <data name="playModeStr_listRecycle" xml:space="preserve">
+    <value>Loop</value>
+  </data>
+  <data name="playModeStr_recycle" xml:space="preserve">
+    <value>Replay</value>
+  </data>
+  <data name="playRate_str" xml:space="preserve">
+    <value>PlayRate</value>
+  </data>
+  <data name="audioLanguage_str" xml:space="preserve">
+    <value>Audio Tracks</value>
+  </data>
+  <data name="fillMode_str" xml:space="preserve">
+    <value>Resize Video</value>
+  </data>
+  <data name="addFolderLibrary_textBlock.Text" xml:space="preserve">
+    <value>Next time you start, all videos in the following folders will be loaded automatically</value>
+  </data>
+  <data name="CloseMessageDialog_str" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="allSelect_checkBox.Content" xml:space="preserve">
+    <value>Select All</value>
+  </data>
+  <data name="mediaTrack_str" xml:space="preserve">
+    <value>Video Tracks</value>
+  </data>
+  <data name="metadata_str" xml:space="preserve">
+    <value>Subtitle</value>
+  </data>
+  <data name="metadata_textBlock.Text" xml:space="preserve">
+    <value>Built-in subtitles</value>
+  </data>
+  <data name="screenShot_item.Text" xml:space="preserve">
+    <value>Intercept screen</value>
+  </data>
+  <data name="clearData_textBlock.Text" xml:space="preserve">
+    <value>(After clearing the local cache, historical watch history will be cleared synchronously)</value>
+  </data>
+  <data name="closeDialog_Button.Content" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="close_button.Content" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="saveSucceed_str" xml:space="preserve">
+    <value>Save succeed:  </value>
+  </data>
+  <data name="Fill_item.Text" xml:space="preserve">
+    <value>Fill</value>
+  </data>
+  <data name="None_item.Text" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="UniformToFill_item.Text" xml:space="preserve">
+    <value>UniformToFill</value>
+  </data>
+  <data name="Uniform_item.Text" xml:space="preserve">
+    <value>Uniform</value>
+  </data>
+  <data name="access_textBlock.Text" xml:space="preserve">
+    <value>Open local settings to get video permissions</value>
+  </data>
+  <data name="closeCutDialog_button.Content" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="editPicture_button.Content" xml:space="preserve">
+    <value>Edit picture</value>
+  </data>
+  <data name="openCutAdress_button.Content" xml:space="preserve">
+    <value>Open Folder</value>
+  </data>
+  <data name="replay_menuItem.Text" xml:space="preserve">
+    <value>Replay</value>
+  </data>
+  <data name="noPicturesFolder_str" xml:space="preserve">
+    <value>The folder has been moved or renamed!</value>
+  </data>
+  <data name="noPicture_str" xml:space="preserve">
+    <value>The file has been moved or renamed!</value>
+  </data>
+  <data name="videoDecode_toggleSwitch.Header" xml:space="preserve">
+    <value>Soft Decoding</value>
+  </data>
+  <data name="SystemSound_toggleSwitch.Header" xml:space="preserve">
+    <value>System Sound</value>
+  </data>
+  <data name="FFmpeg_toggleSwitch.Header" xml:space="preserve">
+    <value>Hard Decoding</value>
+  </data>
+  <data name="Decode_textBlock.Text" xml:space="preserve">
+    <value>Decoding Settings</value>
+  </data>
+  <data name="clearLocalData_textBlock.Text" xml:space="preserve">
+    <value>Local play progress data</value>
+  </data>
+  <data name="cancelMultiple_str" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="multiple_str" xml:space="preserve">
+    <value>Multiple</value>
+  </data>
+  <data name="PlayerName_str.Text" xml:space="preserve">
+    <value>VideoPlayerUWP</value>
+  </data>
+  <data name="addTimedText_textBlock.Text" xml:space="preserve">
+    <value>Add Subtitle</value>
+  </data>
+  <data name="contentGridViewHeader_str" xml:space="preserve">
+    <value>All Videos</value>
+  </data>
+  <data name="videosCount_str" xml:space="preserve">
+    <value>videos</value>
+  </data>
+  <data name="removeFolders_item.Text" xml:space="preserve">
+    <value>Remove</value>
+  </data>
+  <data name="back_str" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="volume_str" xml:space="preserve">
+    <value>Volume</value>
+  </data>
+  <data name="openSettings_textBlock.Text" xml:space="preserve">
+    <value>Open Settings</value>
+  </data>
+  <data name="run_1.Text" xml:space="preserve">
+    <value>a. For video formats that are not supported, forced decoding will result in the inability to retrieve video built-in subtitles (third-party API function restrictions).</value>
+  </data>
+  <data name="run_2.Text" xml:space="preserve">
+    <value>b. Under the preview version of WINDOWS, a flashback may occur.</value>
+  </data>
+  <data name="run_3.Text" xml:space="preserve">
+    <value>c. During the use, there are problems or suggestions, welcome feedback to the developer. Thanks !</value>
+  </data>
+  <data name="closeSettings_button.Content" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="fastForward_str" xml:space="preserve">
+    <value>Fast Forward</value>
+  </data>
+  <data name="rewind_str" xml:space="preserve">
+    <value>Rewind</value>
+  </data>
+  <data name="defaultTracks_str" xml:space="preserve">
+    <value>Default</value>
+  </data>
+  <data name="frombin_item.Text" xml:space="preserve">
+    <value>Put in Recycle Bin </value>
+  </data>
+  <data name="fromlist_item.Text" xml:space="preserve">
+    <value>Remove from list </value>
+  </data>
+  <data name="remove_item.Text" xml:space="preserve">
+    <value>Delete permanently</value>
+  </data>
+  <data name="multipleDelete_textBlock.Text" xml:space="preserve">
+    <value>Remove</value>
+  </data>
+  <data name="list_item.Text" xml:space="preserve">
+    <value>List</value>
+  </data>
+  <data name="null_item.Text" xml:space="preserve">
+    <value>Null</value>
+  </data>
+  <data name="playMode_textBlock.Text" xml:space="preserve">
+    <value>Play Mode</value>
+  </data>
+  <data name="recycle_item.Text" xml:space="preserve">
+    <value>Loop</value>
+  </data>
+  <data name="replay_item.Text" xml:space="preserve">
+    <value>Replay</value>
+  </data>
+  <data name="audioTracks_textBlock.Text" xml:space="preserve">
+    <value>Audio Tracks :</value>
+  </data>
+  <data name="timedTracks_textBlock.Text" xml:space="preserve">
+    <value>Subtitle :</value>
+  </data>
+  <data name="videoTracks_textBlock.Text" xml:space="preserve">
+    <value>Video Tracks :</value>
+  </data>
+  <data name="pin_str" xml:space="preserve">
+    <value>Pin</value>
+  </data>
+  <data name="unPin_str" xml:space="preserve">
+    <value>Unpin</value>
+  </data>
+  <data name="about_button.Label" xml:space="preserve">
+    <value>Help</value>
+  </data>
+  <data name="comment_button.Label" xml:space="preserve">
+    <value>Comment</value>
+  </data>
+  <data name="email_button.Label" xml:space="preserve">
+    <value>E-Mail</value>
+  </data>
+  <data name="search_button.Label" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="closeButton_str" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="playError_textBlock.Text" xml:space="preserve">
+    <value>Play error, try to force decoding!</value>
+  </data>
+  <data name="primaryButton_str" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="more_str" xml:space="preserve">
+    <value>More</value>
+  </data>
+  <data name="allTime_textBlock.Text" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="forcedDecoding_str" xml:space="preserve">
+    <value>Forced decoding succeeded !</value>
+  </data>
+  <data name="addFoldersButton_textBlock.Text" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="multiple_textBlock.Text" xml:space="preserve">
+    <value>Multiple</value>
+  </data>
+  <data name="refreshVideos_textBlock.Text" xml:space="preserve">
+    <value>Refresh</value>
+  </data>
+  <data name="search_textBlock.Text" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="settingsButton_textBlock.Text" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="themeButton_textBlock.Text" xml:space="preserve">
+    <value>Theme</value>
+  </data>
+  <data name="comment_textBlock.Text" xml:space="preserve">
+    <value>Thank you for using this app, any suggestions or feedback, welcome to give a review! thank you very much!</value>
+  </data>
+  <data name="isComment_checkBox.Content" xml:space="preserve">
+    <value>No longer pop up</value>
+  </data>
+  <data name="commentCancel_str" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="commentPrimary_str" xml:space="preserve">
+    <value>Jump to the store</value>
+  </data>
+  <data name="exitFullScreen__textBlock.Text" xml:space="preserve">
+    <value>Currently in full screen mode, whether to exit full screen mode!</value>
+  </data>
+  <data name="screenShot_str" xml:space="preserve">
+    <value>Screenshot</value>
+  </data>
+</root>

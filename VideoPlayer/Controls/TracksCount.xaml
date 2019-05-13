@@ -1,0 +1,50 @@
+﻿<UserControl
+    x:Class="VideoPlayer.Controls.TracksCount"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:controls="using:Microsoft.Toolkit.Uwp.UI.Controls"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+    <UserControl.Resources>
+        <Storyboard x:Name="story_Board" >
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="main_Grid"
+                                Storyboard.TargetProperty="Opacity"
+                                BeginTime="0:0:0">
+                <SplineDoubleKeyFrame  KeyTime="00:00:00.00" Value="1"/>
+                <SplineDoubleKeyFrame  KeyTime="00:00:03.00" Value="0.0"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </UserControl.Resources>
+
+    <Grid x:Name="main_Grid">
+        <controls:DropShadowPanel BlurRadius="10"
+                                  ShadowOpacity="0.3"
+                                  Color="White"
+                                  HorizontalAlignment="Right"
+                                  VerticalAlignment="Center" Margin="0,0,60,0">
+            <Border CornerRadius="0"
+                Background="Black"
+                HorizontalAlignment="Center" 
+            VerticalAlignment="Center"
+            Padding="10,5">
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock x:Name="audioTracks_textBlock" x:Uid="audioTracks_textBlock" Foreground="WhiteSmoke" FontSize="12"/>
+                        <TextBlock x:Name="audioCount_textBlock" Margin="5,0,0,0" Foreground="WhiteSmoke" FontSize="12"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock x:Name="videoTracks_textBlock" x:Uid="videoTracks_textBlock" Foreground="WhiteSmoke" FontSize="12"/>
+                        <TextBlock x:Name="videoCount_textBlock" Margin="5,0,0,0" Foreground="WhiteSmoke" FontSize="12"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock x:Name="timedTracks_textBlock" x:Uid="timedTracks_textBlock" Foreground="WhiteSmoke" FontSize="12"/>
+                        <TextBlock x:Name="timedCount_textBlock" Margin="5,0,0,0" Foreground="WhiteSmoke" FontSize="12"/>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+        </controls:DropShadowPanel>
+    </Grid>
+</UserControl>

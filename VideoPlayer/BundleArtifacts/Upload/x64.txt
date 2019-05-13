@@ -1,0 +1,2 @@
+MainPackage=C:\Users\singh\source\repos\Easy-MediaPlayer\VideoPlayer\bin\x64\Release\Upload\VideoPlayer_1.2019.51303.0_x64.msix
+SymbolPackage=C:\Users\singh\source\repos\Easy-MediaPlayer\VideoPlayer\bin\x64\Release\Upload\VideoPlayer_1.2019.51303.0\VideoPlayer_1.2019.51303.0_x64.appxsym
